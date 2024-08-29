@@ -1,4 +1,8 @@
-﻿# BK0011M for [MiSTer Board](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
+=(BK0011M_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
+ 
+ # BK0011M for [MiSTer Board](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 This project of [popular USSR home computer](https://en.wikipedia.org/wiki/Electronika_BK) is based on precise [KR1801VM1](http://zx-pk.ru/showthread.php?t=23978) Verilog model by Vslav
 
