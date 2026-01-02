@@ -1,4 +1,11 @@
-﻿# BK0011M for [MiSTer Board](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
+=(BK0011M_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
+
+Dev notes: Using sys_top.v from previous stable release.
+
+___
+ # BK0011M for [MiSTer Board](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 This project of [popular USSR home computer](https://en.wikipedia.org/wiki/Electronika_BK) is based on precise [KR1801VM1](http://zx-pk.ru/showthread.php?t=23978) Verilog model by Vslav
 
@@ -66,3 +73,4 @@ if disk support in OSD is turned off, then diagnostic utility can be launched by
 
 ### Download precompiled binaries:
 Go to [releases](https://github.com/MiSTer-devel/BK0011M_MiSTer/tree/master/releases) folder.
+
